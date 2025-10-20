@@ -13,6 +13,7 @@ Video anomaly detection (VAD) aims to identify, understand and describe anomalou
 - [🧪 New Setting Papers](#-new-setting-papers)
 - [📃 Weakly-supervised VAD Papers](#-weakly-supervised-vad-papers)
   - [Prompt Involved Papers](#prompt-involved-papers)
+- [📃 Training-free VAD Papers](#-training-free-vad-papers)
 - [📃 Semi-supervised VAD Papers](#-semi-supervised-vad-papers)
 - [📃 Skeleton-based Papers](#-skeleton-based-papers)
 - [📃 Fully-supervised VAD Papers](#-fully-supervised-vad-papers)
